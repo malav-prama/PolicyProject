@@ -2,5 +2,5 @@ package com.example.Policy;
 
 public class PolicyAggregator {
 
-    //@resource our other rest apis
+    //get data from other REST endpoints 
 }
